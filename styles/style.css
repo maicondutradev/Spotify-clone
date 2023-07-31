@@ -157,6 +157,7 @@ h3{
 @media (max-width: 575.98px) {
     .btn-custom {
         margin: 2.5px;
+        font-size: 1em;
     }
 }
 
